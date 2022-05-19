@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalebRuto
-- 👀 I’m interested in Software Development, QA and Data Science
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Development projects
+- 👀 I’m interested in Data Analytics, QA and Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science and Analytics Projects
 - 📫 How to reach me calebruto45@gmail.com
 
 <!---
